@@ -52,7 +52,7 @@ public extension UIFont {
             return nil
         }
     }
-}
+}//to test
 
 extension UIImage: FontAwesomeCompatiable { }
 
